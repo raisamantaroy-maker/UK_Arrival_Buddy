@@ -1,2 +1,12 @@
+#UK ARRIVAL BUDDY
+
+##Project Description
+This project is designed to help international students after arriving in the UK.It provides essential information such as accomodation,transport,bank account,GP etc.
+
 ## UK_Arrival_Buddy_Design
 Figma Link:https://www.figma.com/design/rxhBJi2MFyHnLEoiGAiMyR/UK_ARRIVAL_BUDDY?node-id=0-1&t=sKzU7hcqRksMgLOg-1
+
+##Technology Used
+-Python(for coding)
+-Figma(for UI design)
+-Github(version control)
