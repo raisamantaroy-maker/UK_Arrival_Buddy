@@ -12,6 +12,6 @@ Figma Link:https://www.figma.com/design/rxhBJi2MFyHnLEoiGAiMyR/UK_ARRIVAL_BUDDY?
 -Github(version control)
 
 ##Screenshots
-![frame1](Frame1.png)
-![frame2](Frame2.png)
-![frame3](Frame3.png)
+![Frame1](Frame1.png)
+![Frame2](Frame2.png)
+![Frame3](Frame3.png)
