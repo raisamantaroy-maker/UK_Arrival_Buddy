@@ -16,7 +16,7 @@ def show_login():
     tk.Entry(window,width=30).pack(pady=10)
     tk.Label(window,text="Password",fg="white",bg="#0b2a4a",font=("Times",26,"italic")).pack()
     tk.Entry(window,width=30,show="*").pack(pady=5)
-    tk.Button(window,text="Login",font=("Times",16,"italic"),bg="#2f6fed",fg="white",width=10,command=show_home).pack(pady=60)
+    tk.Button(window,text="Login",font=("Times",16,"italic"),bg="#d9d9d9",fg="white",width=10,command=show_home).pack(pady=60)
 #3rd page
 def show_home():
     clear()
