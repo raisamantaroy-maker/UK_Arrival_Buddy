@@ -1,4 +1,11 @@
-#UK ARRIVAL BUDDY
+#Group Name:Soul Speak
+#Project Name:UK ARRIVAL BUDDY
+#Group Members:
+-Syed Afzal Siyam(24167031)
+-Rai Samanta Roy(24164875)
+-Md Al-Amin(24138775)
+-Md Mahabub Hosen(24164848)
+-Muhammad Laique Randhawa(24136106)
 
 ##Project Description
 This project is designed to help international students after arriving in the UK.It provides essential information such as accomodation,transport,bank account,GP etc.
