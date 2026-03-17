@@ -1,6 +1,8 @@
-#Group Name:Soul Speak
-#Project Name:UK ARRIVAL BUDDY
-#Group Members:
+##Group Name:Soul Speak
+
+##Project Name:UK ARRIVAL BUDDY
+
+##Group Members:
 -Syed Afzal Siyam(24167031)
 -Rai Samanta Roy(24164875)
 -Md Al-Amin(24138775)
