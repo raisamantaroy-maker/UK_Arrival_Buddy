@@ -10,3 +10,8 @@ Figma Link:https://www.figma.com/design/rxhBJi2MFyHnLEoiGAiMyR/UK_ARRIVAL_BUDDY?
 -Python(for coding)
 -Figma(for UI design)
 -Github(version control)
+
+##Screenshots
+![frame1](Frame1.png)
+![frame2](Frame2.png)
+![frame3](Frame3.png)
