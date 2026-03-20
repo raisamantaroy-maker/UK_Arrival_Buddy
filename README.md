@@ -24,3 +24,6 @@ Figma Link:https://www.figma.com/design/rxhBJi2MFyHnLEoiGAiMyR/UK_ARRIVAL_BUDDY?
 ![Frame1](Frame1.png)
 ![Frame2](Frame2.png)
 ![Frame3](Frame3.png)
+
+## Flowchart of planning
+![Flowchart](flowchart.jpeg)
